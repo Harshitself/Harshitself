@@ -2,4 +2,4 @@
 - 👀 I’m interested in tech and programming.
 - 🌱 I’m currently learning Full Stack web development.
 - 💞️ I’m looking for a entry level internship in web dev.
-- 📫 How to reach me by email - hkb.bhardwaj44@gmail.com
+- 📫 Reach me by email - hkb.bhardwaj44@gmail.com
