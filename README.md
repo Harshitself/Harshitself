@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Harshit
 - 👀 I’m interested in tech and programming.
-- 🌱 I’m currently learning Full Stack web development.
-- 💞️ I’m looking for a entry level internship in web dev.
+- 🌱 MERN stack developer.
+- 💞️ I’m looking for Web Developer job.
 - 📫 Reach me by email - hkb.bhardwaj44@gmail.com
